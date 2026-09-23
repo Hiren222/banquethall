@@ -1,0 +1,6 @@
+{
+  "name": "Banquet Hall",
+  "description": "A modern, elegant single-page website for Banquet Hall featuring event gallery, amenities, capacity guide, online booking form, marquee reviews, and venue location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
